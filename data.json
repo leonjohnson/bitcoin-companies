@@ -1,10 +1,74 @@
-Name,Description,Tags,HQ,Contact,Year started
-ACINQ,A French startup building products and services for the Bitcoin ecosystem,lightning,"Paris, France",https://acinq.co/,2014
-Advancing Bitcoin Developer Conference,Developer focused talks and workshops to upskill bitcoin developers.,"lightning, conference","London, UK",www.advancingbitcoin.com,2019
-BITTR,Set up a recurring SEPA payment to us and we'll take care of the bitcoin purchase as well as the payout to your bitcoin wallet,"lightning, exchange, banking","Oostburg, Netherlands",hello@getbittr.com,2017
-BUIDL Bootcamp,Online Bitcoin programming bootcamp,course,"Austin, TX, USA",https://buidlbootcamp.com,2018
-Programming Blockchain,Learn the ins and outs of blockchain development in this interactive 2-day seminar,course,"Austin, TX, USA",https://programmingbitcoin.com/programming-blockchain/,2017
-Lightning Labs,We are developing Lightning: an open protocol layer that leverages the power of blockchains and smart contracts to make cheap, fast, private transactions available to anyone around the world,lightning,"San Francisco, CA, USA",https://lightning.engineering,2016
-The Lightning Conference,The Lightning Conference will be the first event to bring together the three major Lightning implementations, developers, and the broader community,lightning,"Berlin, Germany",https://www.thelightningconference.com/,2019
-Satoshis games,A lightning enabled gaming platform,"lightning, gaming","Alicante, Spain",https://satoshis.games,2018
-Blockstream,We deliver a range of products and services that make the adoption of Bitcoin and peer-to-peer finance easier than ever.,"lightning, sidechains, wallet, satelitte,"Victoria, British Columbia, Canada",https://www.blockstream.com,2014
+[
+  {
+    "Name": "ACINQ",
+    "Description": "a French startup building products and services for the Bitcoin ecosystem",
+    "Tags": "lightning",
+    "HQ": "Paris, France",
+    "Contact": "https://acinq.co/",
+    "Year started": 2014
+  },
+  {
+    "Name": "Advancing Bitcoin Developer Conference",
+    "Description": "Developer focused talks and workshops to upskill bitcoin developers.",
+    "Tags": "lightning, conference",
+    "HQ": "London, UK",
+    "Contact": "www.advancingbitcoin.com",
+    "Year started": 2019
+  },
+  {
+    "Name": "BITTR",
+    "Description": "set up a recurring SEPA payment to us and we'll take care of the bitcoin purchase as well as the payout to your bitcoin wallet",
+    "Tags": "lightning, exchange, banking",
+    "HQ": "Oostburg, Netherlands",
+    "Contact": "hello@getbittr.com",
+    "Year started": 2017
+  },
+  {
+    "Name": "BUIDL Bootcamp",
+    "Description": "Online Bitcoin programming bootcamp",
+    "Tags": "course",
+    "HQ": "Austin, TX, USA",
+    "Contact": "https://buidlbootcamp.com",
+    "Year started": 2018
+  },
+  {
+    "Name": "Programming Blockchain",
+    "Description": "Learn the ins and outs of blockchain development in this interactive 2-day seminar",
+    "Tags": "course",
+    "HQ": "Austin, TX, USA",
+    "Contact": "https://programmingbitcoin.com/programming-blockchain/",
+    "Year started": 2017
+  },
+  {
+    "Name": "Lightning Labs",
+    "Description": "We are developing Lightning: an open protocol layer that leverages the power of blockchains and smart contracts to make cheap, fast, private transactions available to anyone around the world",
+    "Tags": "lightning",
+    "HQ": "San Francisco, CA, USA",
+    "Contact": "https://lightning.engineering",
+    "Year started": 2016
+  },
+  {
+    "Name": "The Lightning Conference",
+    "Description": "he Lightning Conference will be the first event to bring together the three major Lightning implementations, developers, and the broader community",
+    "Tags": "lightning",
+    "HQ": "Berlin, Germany",
+    "Contact": "https://www.thelightningconference.com/",
+    "Year started": 2019
+  },
+  {
+    "Name": "Satoshis games",
+    "Description": "Lightning enabled gaming platform",
+    "Tags": "lightning, gaming",
+    "HQ": "Alicante, Spain",
+    "Contact": "https://satoshis.games",
+    "Year started": 2018
+  },
+  {
+    "Name": "Blockstream",
+    "Description": "We deliver a range of products and services that make the adoption of Bitcoin and peer-to-peer finance easier than ever.",
+    "Tags": "lightning, sidechains, wallet, satelitte",
+    "HQ": "Victoria, British Columbia, Canada",
+    "Contact": "https://www.blockstream.com",
+    "Year started": 2014
+  }
+]
