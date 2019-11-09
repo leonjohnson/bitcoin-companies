@@ -24,6 +24,14 @@
     "Year started": 2017
   },
   {
+    "Name": "Breez",
+    "Description": "Breez is a non-custodial Lightning client & hub that enables seamless bitcoin payments.",
+    "Tags": "lightning",
+    "HQ": "Tel Aviv, Israel",
+    "Contact": "https://breez.technology",
+    "Year started": 2018
+  },
+  {
     "Name": "BUIDL Bootcamp",
     "Description": "Online Bitcoin programming bootcamp",
     "Tags": "course",
