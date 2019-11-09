@@ -16,6 +16,14 @@
     "Year started": 2019
   },
   {
+    "Name": "Bluewallet",
+    "Description": "Bitcoin and Lightning wallet focused on making Bitcoin fun, accessible and usable.",
+    "Tags": "lightning, bitcoin, wallet",
+    "HQ": "Remote",
+    "Contact": "https://bluewallet.io",
+    "Year started": 2018
+  },
+  {
     "Name": "BITTR",
     "Description": "set up a recurring SEPA payment to us and we'll take care of the bitcoin purchase as well as the payout to your bitcoin wallet",
     "Tags": "lightning, exchange, banking",
