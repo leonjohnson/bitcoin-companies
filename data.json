@@ -70,5 +70,13 @@
     "HQ": "Victoria, British Columbia, Canada",
     "Contact": "https://www.blockstream.com",
     "Year started": 2014
+  }, 
+  {
+    "Name": "René Pickhardt",
+    "Description": "data science and lightning network consultant. Co-author of Mastering Bitcoin and well recognized lightning network educator",
+    "Tags": "lightning, Bitcoin, consulting, training, workshops, seminars, education, scouting talent",
+    "HQ": "Gjøvik, Norway & Koblenz Germany",
+    "Contact": "https://www.rene-pickhardt.de",
+    "Year started": 2018
   }
 ]
